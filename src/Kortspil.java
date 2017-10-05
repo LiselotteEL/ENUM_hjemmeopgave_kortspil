@@ -4,7 +4,7 @@ public class Kortspil {
         ACE, TWO, THREE, FOUR, FIVE, SIX, SEVEN, EIGHT, NINE, TEN, KNIGT, QUEEN, KING //definerer konstanter
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { //opretter min main metode
 
         //1. + 2. Definerer variabler - highCard, faceCard, card1, card2 - samt tildeler dem værdi
 
